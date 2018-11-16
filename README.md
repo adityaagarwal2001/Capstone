@@ -1,2 +1,2 @@
 ## Capstone 1 - [Kickstarter campaign analysis](https://github.com/adityaagarwal2001/Capstone/tree/master/Capstone_1 "Capstone 1")
-## Capstone 2 - Predict flight delays in US
+## Capstone 2 - [Predict flight delays in US](https://github.com/adityaagarwal2001/Capstone/tree/master/Capstone_2 "Capstone 2")
